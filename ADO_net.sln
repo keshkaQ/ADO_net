@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADO_net", "ADO_net\ADO_net.csproj", "{F4639A50-E364-44AA-971E-1FEA148A4EFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson_1_connection", "Lesson_1_connection\Lesson_1_connection.csproj", "{0538A3F5-59E5-4487-B146-FFC5835B57A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4639A50-E364-44AA-971E-1FEA148A4EFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4639A50-E364-44AA-971E-1FEA148A4EFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4639A50-E364-44AA-971E-1FEA148A4EFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4639A50-E364-44AA-971E-1FEA148A4EFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0538A3F5-59E5-4487-B146-FFC5835B57A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0538A3F5-59E5-4487-B146-FFC5835B57A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0538A3F5-59E5-4487-B146-FFC5835B57A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0538A3F5-59E5-4487-B146-FFC5835B57A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C277B3D-4AB8-4D19-9269-88544B8577B8}
+	EndGlobalSection
+EndGlobal
